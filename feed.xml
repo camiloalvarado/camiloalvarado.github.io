@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Camilo Alvarado</title>
+    <description>La Web es maravillosa.</description>
+    <link>http://localhost/</link>
+    <atom:link href="http://localhost/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 02 Mar 2017 15:48:50 -0600</pubDate>
+    <lastBuildDate>Thu, 02 Mar 2017 15:48:50 -0600</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>The Internet’s Own Boy, un documental sobre Aaron Swartz, como se levantó por la libertad y la justicia y fue perseguido hasta su muerte</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://www.dementesx.com/wp-content/uploads/2015/11/aaron-swartz-internet.jpg&quot; alt=&quot;Aaron Swartz&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Aaron esta muerto. Caminantes del mundo, perdimos a uno de nuestros sabios. Hackers por derrecho, perdimos a uno de los nuestros. Padres todos, perdimos a un hijo. Lloremos. &lt;em&gt;Tim Berners-lee, científico de la computación británico, conocido por ser el padre de la Web.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;The Internet´s Own Boy&lt;/code&gt; o El hijo legitimo del Internet, es un Documental que cuenta la historia, vida y trágica muerte de Aaron Swartz, el niño prodigio friki líder de su generación, quien fué perseguido hasta el suicidio a la edad de 26 años, La película está disponible en ingles en &lt;a href=&quot;https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz&quot; title=&quot;Internet Archive&quot;&gt;Internet Archive&lt;/a&gt; y en español en &lt;a href=&quot;https://youtu.be/7jhdj0vKbYo&quot; title=&quot;Youtube&quot;&gt;Youtube&lt;/a&gt;, y si no tienen nada planeado para este fin de semana, les recomiendo verlo, pues es una fuente reveladora de como los estados pretenden hacerse con el control del la internet, y las corporaciones pretenden privatizar el conocimiento y la cultura.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“El Internet es la forma de expresión más emocionante, moderna y desarrollada que existe. Y la expresión es un derecho humano. Claro que la internet debería serlo también.” Aaron Swartz.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;el-niño-prodigio&quot;&gt;El niño prodigio&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Son pocos los que logran involucrarse en proyectos tan importantes a tan corta edad.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Decir que Swartz era un prodigio es un eufemismo, Swartz era mucho más que un programador inmensamente dotado. La película The Internet´s Own Boy incluye videos caseros que muestran el fascinante niño, vorazmente-inquisitivo que era. Los amigos y conocidos de Aaron Swartz han comentado en varias ocasiones lo intenso de conocer a ese niño genio en persona, de verlo involucrado en proyectos tan importantes desde los 14 años: fue coautor de las especificaciones &lt;a href=&quot;https://es.wikipedia.org/wiki/RSS&quot; title=&quot;RSS&quot;&gt;RSS&lt;/a&gt;, se convirtió en un miembro de la &lt;a href=&quot;https://es.wikipedia.org/wiki/RSS&quot; title=&quot;W3C&quot;&gt;W3C&lt;/a&gt;. Codiseñó el formato del lenguaje Markdown, con John Gruber, este articulo esta hecho en Markdown, por ejemplo. Ayudó a diseñar el código de las licencias &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot; title=&quot;Creative Commons&quot;&gt;Creative Commons&lt;/a&gt;, un sistema que utiliza la ley de derechos de autor para darle a la gente el control sobre cómo sus creaciones digitales pueden ser utilizadas por otros, desarrolló la arquitectura del sistema de &lt;a href=&quot;https://es.wikipedia.org/wiki/Open_Library&quot; title=&quot;Open Library&quot;&gt;Open Library&lt;/a&gt;. Más tarde fundó Infogami, una empresa que se fusionó con &lt;a href=&quot;https://es.wikipedia.org/wiki/Reddit&quot; title=&quot;Reddit&quot;&gt;Reddit&lt;/a&gt; luego sería adquirida por la importante editorial Condé Nast. Así mismo, fue una importante voz y pieza moral en contra de la &lt;a href=&quot;https://es.wikipedia.org/wiki/Stop_Online_Piracy_Act&quot; title=&quot;Ley SOPA&quot;&gt;Ley SOPA.&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Creo firmemente que no es suficiente vivir con el mundo tal cual está. Tomar lo que te dieron y hacer lo que los adultos te dijeron que hicieras. Lo que tus padres te dijeron. Lo que la sociedad te dice que hagas. Creo que siempre deberías cuestionar y tener una actitud científica en la que entiendas que todo lo que aprendes es provisional. Todo puede ser refutado. Lo mismo aplica a la sociedad. Hay cosas que pueden cambiar y hay cosas que están mal y que deben cambiar.” Aaron Swartz.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;su-legado&quot;&gt;Su legado&lt;/h2&gt;
+&lt;p&gt;A medida que crecía, se podría verlo cada vez más interesado en la política. Y esto también era previsible, ya que nadie con una inteligencia afilada como la de Aaron, podría dejar de percibir en el capitalismo neoliberal la injusticia, la hipocresía y la desigualdad que se encuentra ligadas a él. Por lo que se transformó en el activista político más dotado tecnológicamente en la historia. Miraba la injusticia y escribía software para remediarlo. Por ejemplo cuando se enteró que para tener acceso a la provisión de transcripciones de la corte de los EE.UU. se tenía que pagar, mercantilizando un derecho civil. Para hacerle frente a esto se unió a otros activistas con el fin de corregir el mal obvio: la ley sólo podía ser leída por los que tienen dinero, entonces se puso manos a la obra y mejoró un software diseñado para almacenar en un servidor con acceso público, los documentos de usuarios que habían decidido compartir sus archivos judiciales previamente descargados, la información empezó a llegar y en un tiempo sorprendentemente corto, había 760 Gb de documentos, unas 20 millones páginas. Se había hecho la magia los prodigios tecnológicos de Aaron habían hecho efectivo un derecho civil violado.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Compartir no es inmoral: es un imperativo moral. Solo quienes están cegados por la ambición podrían reusarse a dejar que un amigo obtenga una copia [de los documentos guardados celosamente en bases de datos]. […] No hay justicia al cumplir leyes injustas. Es hora de salir a la luz y, siguiendo la tradición de la desobediencia civil, oponernos a este robo privado de la cultura pública. Fragmeto del Manifiesto de la Gurrilla Open Acces. Aaron Swartz&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://latinoweeklyreview.com/wp-content/uploads/2014/01/lead20.jpg&quot; alt=&quot;Aaron Swartz&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Su caída se produjo cuando volvió su atención a JSTOR, un sistema de archivo en línea de publicaciones académicas, &lt;a href=&quot;https://es.wikipedia.org/wiki/JSTOR&quot; title=&quot;JSTOR&quot;&gt;JSTOR&lt;/a&gt; es una sociedad estadounidense “sin ánimo de lucro” mantiene una biblioteca digital de artículos académicos ocultos detrás de un muro de pago (las membrecías de consulta van desde los $35,000 al año). Él ideó un método para descargar un gran número de artículos de JSTOR, usando un ordenador escondido en un armario en El Instituto Tecnológico de Massachusetts (MIT). Fue detenido en enero de 2011 y perseguido por los fiscales federales con un celo implacable, siendo acusado de una serie de cargos que conllevaban una posible sentencia de cárcel de 35 años. Abrumado por la preción federal, se suicidó el 11 de enero de 2013. ¿Que llevó a los fiscales a ensañarse de esa manera?. Claro que había roto la ley, pero no había robado un banco o asesinado a alguien. No hubo ningún daño físico real, ni daño económico real, la descarga estaba en proceso lo encontraron “enchufado”; JSTOR no sufrió ninguna pérdida económica real y tampoco presentó cargos en contra de Aaron.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“El primer paso para hacer la diferencia es creer que puedes lograrlo. Porque ya que lo haces avanzaste la mitad del camino para hacerlo. A veces te sientes sin poder alguno te sientes pequeño, pero la realidad es distinta. La cosas se ven así porque nos han hecho creer que no tenemos poder” Aaron Swartz.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Una explicación a la cruel persecución nos muestra a un fiscal federal políticamente ambicioso, ansioso de hacerse de renombre. Pero yo me inclino por la más oscura, la interpretación de que las autoridades sabían de la eficacia con que Swartz había organizado un movimiento de activistas, movilizados en una comunidad en red, para detener una legislación que pretendía censurar el Internet, la ley SOPA. Había que sentar un precedente, había que callarlo.&lt;/p&gt;
+
+&lt;p&gt;El siguiente párrafo es un fragmento del comunicado extendido por la familia de Aaron Swart después de su muerte.&lt;/p&gt;
+
+&lt;p&gt;“El compromiso de Aaron por la justicia social era profundo, y definio su vida. Jugó un papel decisivo en la derrota de un proyecto de ley de censura de Internet; luchó por un sistema político más democrático, abierto y responsable; ademas ayudó a crear, construir y preservar una vertiginosa gama de los proyectos académicos que extendió el alcance y la accesibilidad del conocimiento humano. Utilizó sus habilidades prodigiosas como programador y técnico no para enriquecerse, sino para hacer de Internet y el mundo un lugar mejor y más justo.”&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Debemos obtener la información, donde quiera que esté almacenada, hacer nuestras copias y compartirla con el mundo. Debemos recopilar material que no tenga derechos de autor y añadirlo al archivo. Debemos comprar bases de datos secretas y colgarlas en la Web. Debemos descargarnos publicaciones científicas y subirlas a las redes de intercambio de archivos. Debemos luchar por la Guerrilla Open Access. Fragmeto del Manifiesto de la Gurrilla Open Access. Aaron Swartz&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Has clic en el enlace que elijas para ver el documental:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz&quot; title=&quot;The insternet´s Own Boy - Ingles&quot;&gt;The Internet´s Own Boy -Ingles
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/7jhdj0vKbYo&quot; title=&quot;The Internet´s Own Boy -Subtitula en Español&quot;&gt;The Internet´s Own Boy -Subtitula en Español
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Les recomiendo leer:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.soydelbierzo.com/2013/01/13/manifiesto-de-la-guerrilla-open-access-en-memoria-de-aaron-swartz/&quot; title=&quot;Manifiesto de la Guerrilla Open Access&quot;&gt;Manifiento de la Guerrilla Open Access&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;información-del-film&quot;&gt;Información del film&lt;/h2&gt;
+&lt;p&gt;Título original: The Internet’s Own Boy: The Story of Aaron Swartz&lt;/p&gt;
+
+&lt;p&gt;Año: 2014&lt;/p&gt;
+
+&lt;p&gt;Duración: 105 min.&lt;/p&gt;
+
+&lt;p&gt;País: Estados Unidos Estados Unidos&lt;/p&gt;
+
+&lt;p&gt;Director: Brian Knappenberger&lt;/p&gt;
+
+&lt;p&gt;Guión: Brian Knappenberger&lt;/p&gt;
+
+&lt;p&gt;Música: John Dragonetti&lt;/p&gt;
+
+&lt;p&gt;Reparto: Documentary&lt;/p&gt;
+
+&lt;p&gt;Productora: Luminant Media&lt;/p&gt;
+
+&lt;p&gt;Género: Documental - Biográfico. Internet - Informática&lt;/p&gt;
+</description>
+        <pubDate>Thu, 25 Aug 2016 17:00:00 -0600</pubDate>
+        <link>http://localhost/archivers/The_Internets_Own_Boy.html</link>
+        <guid isPermaLink="true">http://localhost/archivers/The_Internets_Own_Boy.html</guid>
+        
+        
+        <category>Contracultura</category>
+        
+        <category>Tecnología</category>
+        
+      </item>
+    
+      <item>
+        <title>Un manifiesto de los Nativos Digitales</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Piotr_czerski_3.jpg/1280px-Piotr_czerski_3.jpg&quot; alt=&quot;Piotr Czerski&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;&lt;small&gt;Piotr Czerski&lt;/small&gt;&lt;/center&gt;
+&lt;p&gt;Un manifiesto de los Nativos Digitales es un ensayo de Piotr Czerski, que revela las contradicciones que han surgido con el estado actual de la cultura, el Internet y la democracia.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;No necesitamos monumentos. Necesitamos un sistema que esté a la altura de nuestras expectativas, un sistema que sea transparente y competente. Y hemos aprendido que el cambio es posible: que cada sistema que no es confortable para nosotros puede ser reemplazado y sustituido por uno nuevo, uno que sea más eficiente, más adecuado a nuestras necesidades, que de más oportunidades.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Piotr Czerski, en realidad &lt;strong&gt;&lt;em&gt;Kordian Peter Klecha&lt;/em&gt;&lt;/strong&gt; (n. 1 de abril de 1981 ) es un poeta y escritor polaco, co-fundador de la banda Towary Zastępcze, graduado en ciencias informáticas en el Politécnico Universitario de Gdańskiej, realizó estudiós de filosofía en la Universidad de Gdańskiej.&lt;/p&gt;
+
+&lt;h2 id=&quot;nosotros-los-niños-web&quot;&gt;“Nosotros los niños web”&lt;/h2&gt;
+
+&lt;p&gt;Probablemente no existe otra palabra que sea usada tan en exceso dentro del discurso de los medios como “generación”. Una vez traté de contar las “generaciones” que han sido proclamadas en los últimos diez años, desde el conocido artículo sobre la llamada “Generación Nada” y creo que eran tantas como doce. Todos ellos tenían algo en común: sólo existían en papel. &lt;em&gt;La realidad nunca nos ha dado un solo impulso tangible, significativo e inolvidable,&lt;/em&gt; una experiencia común que siempre nos distinguirá de las generaciones anteriores. Lo hemos estado buscando, pero en cambio vino un cambio sustancial e inadvertido, junto con la televisión por cable, teléfonos móviles, y, sobre todo, el acceso a Internet. Es sólo hoy que podemos comprender plenamente que tanto ha cambiado durante los últimos quince años.&lt;/p&gt;
+
+&lt;p&gt;Nosotros, los niños web, nosotros quienes crecimos con Internet y en el Internet, somos una generación que cumple los criterios de este término de una forma un tanto subversiva. &lt;em&gt;No hemos tenido un impulso de la realidad, sino más bien una metamorfosis de la realidad misma.&lt;/em&gt; Lo que nos une no es un contexto cultural común y limitado, sino la creencia de que el contexto se define por sí mismo y es un efecto de la elección libre.&lt;/p&gt;
+
+&lt;p&gt;Al escribir esto, soy consciente de que estoy abusando del pronombre “nosotros”, ya que nuestro “nosotros” es fluctuante, discontinuo, borroso, de acuerdo a las viejas categorías: temporal. Cuando digo “nosotros”, significa “muchos de nosotros” o “algunos de nosotros”. Cuando digo “nosotros somos” significa que “a menudo lo somos”. Digo “nosotros” sólo con el fin de ser capaz de hablar solo de nosotros.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-crecimos-con-el-internet-y-en-internet&quot;&gt;1. Crecimos con el Internet y en Internet…&lt;/h2&gt;
+
+&lt;p&gt;Crecimos con el Internet y en Internet. Esto es lo que nos hace diferentes, lo que hace que la crucial, aunque sorprendente desde su punto de vista, diferencia: nosotros no “surfeamos” el Internet, para nosotros no es un “lugar” o “espacio virtual”. &lt;em&gt;El Internet para nosotros no es algo externo a la realidad, sino una parte de ella:&lt;/em&gt; una capa invisible, pero presente constantemente y entrelazada con el entorno físico. Nosotros no usamos el Internet, vivimos en el Internet y a través de. Si tuviéramos que contarles nuestro bildnungsroman1, el análogo, se podría decir que hubo un aspecto natural al Internet en cada experiencia que nos ha formado. Nos hicimos amigos y enemigos en línea, preparamos aplicación para la cuna en línea, planeamos fiestas y sesiones de estudio de línea, nos enamoramos y rompimos en línea. La web para nosotros no es una tecnología que teníamos que aprender y que nos las arreglamos para entenderla. La Web es un proceso para nosotros, que sucede y se transforma continuamente ante nuestros ojos, con nosotros y a través de nosotros. Las tecnologías aparecen y luego se disuelven en las periferias, los sitios web están construidos, florecen y luego se van, pero la web sigue, porque &lt;em&gt;nosotros somos la Web;&lt;/em&gt; nosotros, comunicándonos con los otros de una forma que es natural para nosotros, más intensa y más eficiente que nunca antes en la historia de la humanidad.&lt;/p&gt;
+
+&lt;p&gt;Al ser criados en la Web pensamos de manera diferente. La capacidad de encontrar información es para nosotros algo tan básico, como la posibilidad de encontrar una estación de tren o una oficina de correos en una ciudad desconocida para ustedes. Cuando queremos saber algo - los primeros síntomas de la varicela, las razones del hundimiento del «Estonia», o si la factura del agua no es sospechosamente alta - tomamos medidas con la certeza de un conductor en un auto equipado con navegación satelital. Sabemos que vamos a encontrar la información que necesitamos en un montón de lugares, sabemos cómo llegar a esos lugares, sabemos la forma de evaluar su credibilidad. Hemos aprendido a aceptar que en lugar de una respuesta nos encontramos con muchas diferentes, y de todas ellas podemos abstraer la versión más probable, y deshacernos de las que no nos parecen creíbles. Nosotros seleccionamos, filtramos, recordamos y estamos dispuestos a intercambiar la información obtenida cuando llega una más nueva y mejor.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://galeria.trojmiasto.pl/org/1162193_Roman-Wojciechowski-Jaroslaw-Lipszyc-Grzegorz-Stunza-Piotr-Czerski.jpg&quot; alt=&quot;Roman-Wojciechowski-Jaroslaw-Lipszyc-Grzegorz-Stunza-Piotr-Czerski&quot; /&gt;&lt;/p&gt;
+&lt;center&gt;&lt;small&gt;Roman Wojciechowski, Jaroslaw Lipszyc, Grzegorz Stunza, Piotr Czerski&lt;/small&gt;&lt;/center&gt;
+
+&lt;p&gt;Para nosotros, la Web es una especie de memoria externa compartida. No tenemos que recordar los detalles innecesarios: fechas, cantidades, fórmulas, oraciones, nombres de calles, definiciones detalladas. Es suficiente para nosotros un resumen, la esencia de lo que se necesita para procesar la información y relacionarla con los demás. En caso de que necesitemos los detalles, podemos encontrarlos en cuestión de segundos. Del mismo modo, no tenemos que ser expertos en todo, porque sabemos dónde encontrar las personas que se especializan en lo que nosotros mismos no sabemos, y en quienes confiamos. Las personas que comparten su experiencia con nosotros sin fines de lucro, lo hacen debido a nuestra creencia compartida de que la información existe en el movimiento, de que quiere ser libre, de que todos nos beneficiamos del intercambio de información. Todos los días: estudiar, trabajar, resolver problemas cotidianos, perseguir nuestros intereses. Sabemos cómo competir y nos gusta hacerlo, pero nuestra competencia, nuestro deseo de ser diferentes, se basa en el conocimiento, la habilidad para interpretar y procesar la información, y no en el monopolio de la misma.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-participar-en-la-vida-cultural-no-es-algo-fuera-de-lo-normal-para-nosotros&quot;&gt;2. Participar en la vida cultural no es algo fuera de lo normal para nosotros…&lt;/h2&gt;
+
+&lt;p&gt;Participar en la vida cultural no es algo fuera de lo normal para nosotros: la cultura global es el pilar fundamental de nuestra identidad, más importante para la definición de nosotros mismos que las tradiciones, los relatos históricos, la condición social, ascendencia, o incluso el lenguaje que utilizamos. Del océano de acontecimientos culturales escogemos los que nos convienen más, nos relacionamos con ellos, los revisamos, guardamos nuestros comentarios en los sitios web creados con ese propósito, que también nos dan sugerencias de otros álbumes, películas o juegos que después te recomendamos. Algunas películas, series o videos las vemos junto con nuestros colegas y amigos de todo el mundo, nuestras apreciaciones sólo son compartidas por un pequeño grupo de personas que tal vez nunca se encontrarán cara a cara. Por esta razón creemos que la cultura se está convirtiendo simultáneamente en algo global e individual. Es por eso que se necesita el libre acceso a la misma.&lt;/p&gt;
+
+&lt;p&gt;Esto no quiere decir que exigimos que todos los productos de la cultura esten a nuestra disposición sin costo alguno, aunque cuando creamos algo, por lo general lo damos de vuelta para que circule. Entendemos que, a pesar del aumento de la accesibilidad de las tecnologías que hacen que la calidad de los archivos de vídeo o el sonido hasta ahora reservadas a los profesionales estén al alcance de todos, la creatividad requiere un esfuerzo y una inversión. Estamos dispuestos a pagar, pero la comisión gigante que los distribuidores piden nos parece, obviamente, sobreestimada. ¿Por qué debemos pagar por la distribución de la información que puede ser fácilmente copiada a la perfección y sin ninguna pérdida de la calidad original? Si sólo estamos recibiendo la información por sí sola, queremos que el precio sea proporcional a la misma. Estamos dispuestos a pagar más, pero esperamos recibir algo con valor añadido: un empaque interesante, un gadget, mayor calidad, la opción de verlo aquí y ahora, sin esperar a que el archivo descargue.&lt;/p&gt;
+
+&lt;p&gt;Somos capaces de mostrar aprecio y queremos recompensar a los artistas (ya que el dinero dejó de ser billetes de papel y se convirtió en una cadena de números en la pantalla, el pago se ha convertido en un acto simbólico de intercambio que se supone debe beneficiar a ambas partes), pero las metas de ventas de las empresas no tienen ningún interés hacia nosotros en lo absoluto. No es nuestra culpa que su negocio haya dejado de tener sentido en su forma tradicional y que en lugar de aceptar el reto y tratar de llegar a nosotros con algo más de lo que podemos obtener de forma gratuita, hayan decidido defender sus obsoletos modos.&lt;/p&gt;
+
+&lt;p&gt;Algo más: &lt;em&gt;no queremos pagar por nuestros recuerdos.&lt;/em&gt; Las películas que nos recuerdan a nuestra infancia, la música que nos acompaña hace diez años: en la red de memoria externa son simplemente recuerdos. Recordarlos, intercambiarlos y desarrollarlos es para nosotros algo tan natural como las memorias de ‘Casablanca’ son para ustedes. Encontramos en línea las películas que vimos cuando eramos niños y se las mostramos a nuestros hijos, tal y como ustedes nos contaron la historia de la Caperucita Roja o Ricitos de Oro. ¿Te imaginas que alguien te pueda acusar de violar la ley de esta forma? Nosotros tampoco, no podemos.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-nosotros-no-sentimos-un-respeto-religioso-a-las-instituciones-de-la-democracia&quot;&gt;3. Nosotros no sentimos un respeto religioso a las “instituciones de la democracia”…&lt;/h2&gt;
+
+&lt;p&gt;Estamos acostumbrados a que las facturas se pagan de forma automática, siempre y cuando nuestro saldo de la cuenta lo permita, sabemos que abrir una cuenta bancaria o el cambio de nuestro móvil a otra red es sólo cuestión de rellenar un formulario en línea y firmar de un acuerdo entregado por un mensajería, lo mismo un viaje al otro lado de Europa y una corta visita a otra ciudad en el camino, se puede organizar en dos horas. En consecuencia, siendo los usuarios del estado, estamos cada vez más molestos por su interfaz arcaica. No entiendo por qué la ley de impuestos pide tantas formas para completar, la principal de ellas tiene más de un centenar de preguntas. No entiendo por qué nos vemos obligados a confirmar oficialmente una dirección permanente para poder mudarnos a otra, como si los ayuntamientos no pudieran comunicarse entre sí sin nuestra intervención (por no mencionar que la necesidad de tener una dirección permanente en sí, es suficientemente absurda).&lt;/p&gt;
+
+&lt;p&gt;No hay un rastro en nosotros de la humilde aceptación mostrada por nuestros padres, quienes estaban convencidos de que las cuestiones administrativas son de suma importancia y quienes consideran la interacción con el Estado como algo para celebrar. No creemos en el respeto, enraizado en la distancia entre el ciudadano solitario y las majestuosas alturas en donde reside la clase dominante, apenas visible entre las nubes. Nuestro punto de vista de la estructura social es diferente a la suya: la sociedad es una red, no una jerarquía. Estamos acostumbrados a iniciar un diálogo con cualquier persona, ya sea un profesor o una estrella del pop, y no necesitamos ningún requisito especial relacionado con el estatus social. El éxito de la interacción depende únicamente de si el contenido de nuestro mensaje será considerado como importante y digno de respuesta. Y si, gracias a la cooperación, debates continuos y la defensa de nuestros argumentos en contra de la crítica, tenemos la sensación de que nuestras opiniones sobre muchas cuestiones son simplemente mejores, ¿por qué no deberíamos esperar un diálogo serio con el gobierno?&lt;/p&gt;
+
+&lt;p&gt;Nosotros no sentimos un respeto religioso a las “instituciones de la democracia” en su forma actual, no creemos en su rol axiomático, como lo hacen los que ven las “instituciones de la democracia” como un monumento para y por sí mismos. No necesitamos monumentos. Necesitamos un sistema que esté a la altura de nuestras expectativas, un sistema que sea transparente y competente. Y hemos aprendido que el cambio es posible: que cada sistema que no es confortable para nosotros puede ser reemplazado y sustituido por uno nuevo, uno que sea más eficiente, más adecuado a nuestras necesidades, que de más oportunidades.&lt;/p&gt;
+
+&lt;p&gt;Lo que nosotros más valoramos es la libertad: la libertad de expresión, la libertad de acceso a la información y a la cultura. Creemos que es gracias a la libertad que la Web es lo que es, y que es nuestro deber de proteger esa libertad. Se lo debemos a las futuras generaciones, tanto como se lo debemos a proteger el medio ambiente.&lt;/p&gt;
+
+&lt;p&gt;Tal vez todavía no le hemos dado un nombre, tal vez aún no estamos plenamente conscientes de ello, pero creo que lo que queremos es una democracia real, genuina. La democracia que, quizás, es más de lo que sueña su periodismo.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Publicado originalmente en polaco “My, dzieci sieci” por Piotr Czerski. CC-BY-SA&lt;/li&gt;
+  &lt;li&gt;Traducción al inglés: Marta Szreder CC-BY-SA&lt;/li&gt;
+  &lt;li&gt;Traducción del inglés al español: Geraldine Juárez CC-BY-SA&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;1 Bildungsroman: La novela de formación o novela de aprendizaje es un género literario que retrata la transición de la niñez a la vida adulta. El término alemán original, Bildungsroman (pronunciación: [ˈbɪldʊŋs.roˌmaːn]) significa literalmente novela de formación o novela de educación y fue acuñado por el filólogo Johann Carl Simon Morgenstern en 1819. Leer más &lt;a href=&quot;https://es.wikipedia.org/wiki/Novela_de_aprendizaje&quot;&gt;aquí (Wikipedia)&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Jul 2016 03:00:13 -0600</pubDate>
+        <link>http://localhost/archivers/Nativos-Digitales.html</link>
+        <guid isPermaLink="true">http://localhost/archivers/Nativos-Digitales.html</guid>
+        
+        
+        <category>Contracultura</category>
+        
+        <category>Tecnología</category>
+        
+      </item>
+    
+      <item>
+        <title>EL EMPLEO - THE EMPLOYMENT</title>
+        <description>&lt;p&gt;&lt;img style=&quot;float: left; margin-right:20px;&quot; width=&quot;130px&quot; src=&quot;http://www.intramed.net/userfiles/2013/images/empleocorto.jpg&quot; /&gt;
+Hoy quiero hablarles de un corto animado que captó mi atención, me refiero a EL EMPLEO / THE EMPLOYMENT un corto animado producido en Argentina y dirigido por Santiago ‘Bou’ Grasso, e idea original de Patricio Plaza. En esta producción encontramos a un hombre que realiza su trayecto habitual hacia el trabajo, inmerso en un sistema en el cual el uso de las personas como objetos es algo cotidiano.&lt;/p&gt;
+
+&lt;p&gt;Podría decir que la historia se desarrolla al inicio monótona, recurso necesario para introducirnos en el mundo del protagonista, no obstante desde el inicio figuran imágenes sugerentes que te indican un desenlace interesante y al final este desenlace no solo es interesante, es abrumador, visceral, genera toma de conciencia.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“El hecho de que el hombre sea ajeno al producto de su trabajo tiene como consecuencia inmediata que el hombre se hace ajeno al hombre.” Karl Marx.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;El trabajo asalariado es deshumanizador, nos convierte en mercancías, destruye con mayor eficacia la esencia concreta de lo humano, cuanto mejor pagado está el trabajador asalariado, más explotado es, pues la suntuosidad de su salario solo demuestra que el plus-valor obtenido por su trabajo es mayor, la lucha es contra el trabajo asalariado no para mejores salarios, la lucha es por el ser humano no por el “mercado”.&lt;/p&gt;
+
+&lt;p&gt;Unos trabajamos de computadora, de escritorio, de pistola, otros quieren trabajar.&lt;/p&gt;
+
+&lt;p&gt;EL EMPLEO – THE EMPLOYMENT&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/cxUuU1jwMgM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;información-del-film&quot;&gt;Información del film&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cortometraje de animación.&lt;/li&gt;
+  &lt;li&gt;Ganador de 102 premios internacionales.&lt;/li&gt;
+  &lt;li&gt;Dirección: Santiago ‘Bou’ Grasso.&lt;/li&gt;
+  &lt;li&gt;Idea: Patricio Plaza.&lt;/li&gt;
+  &lt;li&gt;Animación 2D: Santiago Grasso y Patricio Plaza.&lt;/li&gt;
+  &lt;li&gt;Animación 3D: Lautaro Gonzáles.&lt;/li&gt;
+  &lt;li&gt;Character Desing : Patricio Plaza.&lt;/li&gt;
+  &lt;li&gt;Postproducción y Efectos: Santiago ‘Bou’ Grasso.&lt;/li&gt;
+  &lt;li&gt;Productora: Opusbou.&lt;/li&gt;
+  &lt;li&gt;Duración: 06’20”.&lt;/li&gt;
+  &lt;li&gt;Año: 2008.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Si te interesa mas información sobre quienes realizaron el video visita su sitio y encontraras mas producciones y cortos -&amp;gt; &lt;a href=&quot;http://www.opusbou.com.ar/&quot; title=&quot;Opusbou&quot;&gt;Opusbou&lt;/a&gt; (ingles).&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 03 Jun 2016 03:00:13 -0600</pubDate>
+        <link>http://localhost/archivers/EL_EMPLEO.html</link>
+        <guid isPermaLink="true">http://localhost/archivers/EL_EMPLEO.html</guid>
+        
+        
+        <category>Contracultura</category>
+        
+      </item>
+    
+  </channel>
+</rss>
